@@ -8,9 +8,6 @@ ambos seleccionaron el mismo diseño GUI.
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/1.jpg" width="100">
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/2.jpg" width="100">
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/3.jpg" width="100">
-    <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/4.jpg" width="100">
-    <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/5.jpg" width="100">
-    <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/6.jpg" width="100">
 </p>
  :point_right:<a href="https://www.youtube.com/watch?v=iMr757BYXWQ"> Ver Video</a>
  <hr>

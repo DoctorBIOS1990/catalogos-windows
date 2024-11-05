@@ -28,3 +28,9 @@ ambos seleccionaron el mismo diseño GUI.
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Republica%20Gamers/3.jpg" width="100">
 </p>
    :point_right:<a href="https://www.youtube.com/watch?v=WEwS1Z19qoY"> Ver Video</a>
+
+<hr>
+
+# 	:pencil2: Editors
+<img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Editors/MainTab%20Editors.png">
+   

@@ -7,7 +7,7 @@ ambos seleccionaron el mismo diseño GUI.
 <p>
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/1.jpg" width="100">
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/2.jpg" width="100">
-    <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/3.jpg" width="100">
+    <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/3.jpeg" width="100">
 </p>
  :point_right:<a href="https://www.youtube.com/watch?v=iMr757BYXWQ"> Ver Video</a>
  <hr>
@@ -15,7 +15,7 @@ ambos seleccionaron el mismo diseño GUI.
 <h3> 	:pushpin: Imperio Animes:</h3>
 <p>
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/7.jpg" width="100">
-    <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/8.jpg" width="100">
+    <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/8.jpeg" width="100">
     <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Imperio/9.jpg" width="100">
 </p>
  :point_right:<a href="https://www.youtube.com/watch?v=oH8NJ-h2dVw"> Ver Video</a>

@@ -31,6 +31,6 @@ ambos seleccionaron el mismo diseño GUI.
 
 <hr>
 
-# 	:pencil2: Editors
+<h3>:pencil2: Editores</h3>
 <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Editors/MainTab%20Editors.png">
    

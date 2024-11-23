@@ -1,7 +1,9 @@
-# :handbag: Catálogos de Venta
+# :handbag: Sales Catalogs
 
-Diseño de catálogos a emprendedores de mi localidad, dedicados a copia de contenidos de entretenimiento, 
-ambos seleccionaron el mismo diseño GUI.
+I designed catalogs for entrepreneurs in my town, dedicated to copying entertainment content,
+both selected the same GUI design.
+
+In this case, I had to receive a database from the previous catalog, improve it, and keep it in SQLite for reasons of the founder, who was already used to working with them and did not want to change the database system.
 
 <h3>	:pushpin: Imperio Gamers:</h3>
 <p>

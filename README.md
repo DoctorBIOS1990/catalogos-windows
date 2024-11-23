@@ -35,4 +35,8 @@ In this case, I had to receive a database from the previous catalog, improve it,
 
 <h3>:pencil2: Editors</h3>
 <img src="https://github.com/DoctorBIOS1990/catalogos-windows/blob/main/Editors/MainTab%20Editors.png">
-   
+
+<h3>:briefcase: Business Model</h3>
+<img src="https://github.com/DoctorBIOS1990/digital-catalogs-for-windows/blob/main/Imperio/Business%20Model.jpg">
+
+
